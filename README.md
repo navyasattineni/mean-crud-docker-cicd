@@ -172,19 +172,19 @@ mean-crud-docker-cicd/
 Here are the required screenshots for verification:
 
 ### 1. Docker & Compose Setup
-- ![docker-compose](screenshots/1-compose-file.png)
-- ![dockerfiles](screenshots/2-Dockerfiles.png)
-- ![nginx-conf](screenshots/3-nginx-conf.png)
-- ![dockerhub-images](screenshots/4-dockerhub-images.png)
-- ![docker-ps](screenshots/5-docker-ps.png)
+- ![docker-compose](crud-dd-task-mean-app/screenshots/1-compose-file.png)
+- ![dockerfiles](crud-dd-task-mean-app/screenshots/2-Dockerfiles.png)
+- ![nginx-conf](crud-dd-task-mean-app/screenshots/3-nginx-conf.png)
+- ![dockerhub-images](crud-dd-task-mean-app/screenshots/4-dockerhub-images.png)
+- ![docker-ps](crud-dd-task-mean-app/screenshots/5-docker-ps.png)
 
 ### 2. CI/CD Pipeline
-- ![github-secrets](screenshots/6-github-secrets.png)
-- ![ci-cd-yml](screenshots/7-ci-cd-yml.png)
-- ![github-actions-run](screenshots/8-github-actions-run.png)
+- ![github-secrets](crud-dd-task-mean-app/screenshots/6-github-secrets.png)
+- ![ci-cd-yml](crud-dd-task-mean-app/screenshots/7-ci-cd-yml.png)
+- ![github-actions-run](crud-dd-task-mean-app/screenshots/8-github-actions-run.png)
 
 ### 3. Build & Deployment
-- ![frontend-build](screenshots/9-frontend-build.png)
-- ![backend-build](screenshots/10-backend-build.png)
-- ![mongo-status](screenshots/11-mongod-status-version.png)
-- ![app-browser](screenshots/12-app-browser.png)
+- ![frontend-build](crud-dd-task-mean-app/screenshots/9-frontend-build.png)
+- ![backend-build](crud-dd-task-mean-app/screenshots/10-backend-build.png)
+- ![mongo-status](crud-dd-task-mean-app/screenshots/11-mongod-status-version.png)
+- ![app-browser](crud-dd-task-mean-app/screenshots/12-app-browser.png)
