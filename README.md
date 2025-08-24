@@ -171,7 +171,7 @@ mean-crud-docker-cicd/
 
 Here are the required screenshots for verification:
 
-### 1. Docker & Compose Setup
+### 1. Compose & Dockerfile Setup
 - ![docker-compose](crud-dd-task-mean-app/screenshots/1-compose-file.png)
 - ![dockerfiles](crud-dd-task-mean-app/screenshots/2-Dockerfiles.png)
 - ![nginx-conf](crud-dd-task-mean-app/screenshots/3-nginx-conf.png)
