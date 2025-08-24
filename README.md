@@ -179,9 +179,9 @@ Here are the required screenshots for verification:
 - ![docker-ps](crud-dd-task-mean-app/screenshots/5-docker-ps.png)
 
 ### 2. CI/CD Pipeline
-- ![github-secrets](crud-dd-task-mean-app/screenshots/6-github-secrets.png)
-- ![ci-cd-yml](crud-dd-task-mean-app/screenshots/7-ci-cd-yml.png)
-- ![github-actions-run](crud-dd-task-mean-app/screenshots/8-github-actions-run.png)
+- ![github-actions-run](crud-dd-task-mean-app/screenshots/6-github-actions-run.png)
+- ![github-secrets](crud-dd-task-mean-app/screenshots/7-github-secrets.png)
+- ![ci-cd-yml](crud-dd-task-mean-app/screenshots/8-ci-cd-yml.png)
 
 ### 3. Build & Deployment
 - ![frontend-build](crud-dd-task-mean-app/screenshots/9-frontend-build.png)
