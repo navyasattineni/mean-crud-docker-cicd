@@ -173,30 +173,39 @@ Here are the required screenshots for verification:
 
 ### 1. Compose & Dockerfile Setup
 - docker-compose:
-- ![docker-compose](crud-dd-task-mean-app/screenshots/1-compose-file.png)
+  ![docker-compose](crud-dd-task-mean-app/screenshots/1-compose-file.png)
+
 - dockerfiles:
-- ![dockerfiles](crud-dd-task-mean-app/screenshots/2-Dockerfiles.png)
+  ![dockerfiles](crud-dd-task-mean-app/screenshots/2-Dockerfiles.png)
+
 - nginx-conf:
-- ![nginx-conf](crud-dd-task-mean-app/screenshots/3-nginx-conf.png)
+  ![nginx-conf](crud-dd-task-mean-app/screenshots/3-nginx-conf.png)
+
 - dockerhub-images:
-- ![dockerhub-images](crud-dd-task-mean-app/screenshots/4-dockerhub-images.png)
+  ![dockerhub-images](crud-dd-task-mean-app/screenshots/4-dockerhub-images.png)
+  
 - docker-ps:
-- ![docker-ps](crud-dd-task-mean-app/screenshots/5-docker-ps.png)
+  ![docker-ps](crud-dd-task-mean-app/screenshots/5-docker-ps.png)
 
 ### 2. CI/CD Pipeline
 - github-actions-run:
-- ![github-actions-run](crud-dd-task-mean-app/screenshots/6-github-actions-run.png)
+  ![github-actions-run](crud-dd-task-mean-app/screenshots/6-github-actions-run.png)
+
 - github-secrets:
-- ![github-secrets](crud-dd-task-mean-app/screenshots/7-github-secrets.png)
+  ![github-secrets](crud-dd-task-mean-app/screenshots/7-github-secrets.png)
+
 - ci-cd-yml:
 - ![ci-cd-yml](crud-dd-task-mean-app/screenshots/8-ci-cd-yml.png)
 
 ### 3. Build & Deployment
 - frontend-build:
-- ![frontend-build](crud-dd-task-mean-app/screenshots/9-frontend-build.png)
+  ![frontend-build](crud-dd-task-mean-app/screenshots/9-frontend-build.png)
+
 - backend-build:
-- ![backend-build](crud-dd-task-mean-app/screenshots/10-backend-build.png)
+  ![backend-build](crud-dd-task-mean-app/screenshots/10-backend-build.png)
+ 
 - mongo-status:
-- ![mongo-status](crud-dd-task-mean-app/screenshots/11-mongod-status-version.png)
+  ![mongo-status](crud-dd-task-mean-app/screenshots/11-mongod-status-version.png)
+
 - app-browser:
-- ![app-browser](crud-dd-task-mean-app/screenshots/12-app-browser.png)
+ ![app-browser](crud-dd-task-mean-app/screenshots/12-app-browser.png)
