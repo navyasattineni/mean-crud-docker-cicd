@@ -1,0 +1,10 @@
+FROM node:18-alpine3.18
+WORKDIR /app
+COPY package*.json ./
+RUN npm install
+RUN npm install -g @angular/cli
+ENV PATH="/usr/local/bin:${path}"
+COPY . .
+EXPOSE 80
+ENTRYPOINT ["sh", "-c"]
+CMD ["/usr/local/bin/ng server --host 0.0.0.0 --port 80"]
